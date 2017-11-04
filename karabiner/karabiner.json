@@ -423,7 +423,7 @@
                         ]
                     },
                     {
-                        "description": "PC-Style Copy/Paste/Cut",
+                        "description": "Special Copy/Paste/Cut",
                         "manipulators": [
                             {
                                 "conditions": [
