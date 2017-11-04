@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "haskell.hlint.executablePath": "/Users/tadams/.local/bin/hlint",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0
+}
